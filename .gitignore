@@ -1,0 +1,8 @@
+Makefile
+*.make
+*.cbs
+*.qbs
+bin
+obj
+.ycm_*
+
