@@ -10,6 +10,8 @@ for x position, one for y position and one for splatter size.
 Currently, the number of paint splatters is hardcoded, as well as the
 parameters of the distributions that generate them.
 
+Pressing space regenrates the splatter.
+
 ### Improvements
 
 As a possible improvment, the distribution that generates their sizes should
