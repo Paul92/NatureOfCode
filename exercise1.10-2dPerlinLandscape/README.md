@@ -1,6 +1,6 @@
 #About 2D Perlin noise
 
-![Screenshot of 2D Perlin noise](perlinNoise.png)
+![Screenshot of 2D Perlin noise](perlinLandscape.png)
 
 ### Description
 
