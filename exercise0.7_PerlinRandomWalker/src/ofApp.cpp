@@ -26,7 +26,7 @@ void ofApp::update() {
 
     walker.setDirection((Direction)(rand() % 8));
 
-    noiseTimeIndex++;
+    noiseTimeIndex += 0.01;
     float noiseValue = ofNoise(noiseTimeIndex);
     float stepSize = ofMap(noiseValue, 0, 1, 1, 20, true);
 
